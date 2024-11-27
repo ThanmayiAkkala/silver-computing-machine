@@ -32,7 +32,7 @@ const conn = mysql.createConnection({
 
 conn.connect((err) => {
   if (err) throw err;
-  console.log("Mysql Connected with App...");
+  console.log("Mysql Connected with Apap...");
 });
 
 // Create a new router
